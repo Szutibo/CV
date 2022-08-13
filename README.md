@@ -4,17 +4,17 @@ I'm Tibi!
 
 ## About me
 
-I am currently participating in a full-stack web developing course which I am halfway trough. At the moment mostly I consider myself a junior frontend developer who has tons of enthusiasm sucking every bit of knowledge from every platform I am able to use. Right now I am full of motivation becoming a professional developer to acquire my future plans and make something BIG!
+I am currently participating in a full-stack web developing course. At the moment mostly I consider myself a junior frontend developer who has tons of enthusiasm sucking every bit of knowledge from every platform I am able to use. Right now I am full of motivation becoming a professional developer to acquire my future plans and make something BIG!
 
 ## Recent project
 
-|[React-first-project_Car-palace] | [Javascript_practice]
+|[Contact_app] | [quiz_app] | [Playing-With-math] | [weather_app]
 |:-------------- |:-------------- |
-| This is my first (for me quite big) project which I could finish. The project itself is a **R**eact project with a **N**ode.js and **E**xpress backend. It was a great way for me to learn and understand the basics of **R**eact. | Little practicing Javascript project tested by my 6 year old son. ps: He loved it! |
+| This is my first full-stack project. The project itself is a **R**eact project with a **N**ode.js and **E**xpress backend and a MySQL db. | It is a multiple choice quiz application. | Small **R**eact project with a **N**ode.js and **E**xpress backend. This project helped me to get to know better fibonacci sequence and the meaning of factorial and how to make a logic to calculate them. | Simple weather app made in **R**eact using a free wetaher API!
 
 ## Tech stack and studies
 
-I am halfway trough my one year journey becoming a full-stack web developer at [Webler Education Studio].
+I have almost finished my one year journey becoming a full-stack web developer at [Webler Education Studio].
 So far I know the basics of being a frontend developer. I learned:
 
  - HTML
@@ -25,6 +25,9 @@ So far I know the basics of being a frontend developer. I learned:
  - Express
  - React (Functional programming)
  - Version control (git/github)
+ - Basics of PHP
+ - MySQL
+ - Basics of jQuery
 
 ## Skills
 
@@ -34,7 +37,7 @@ So far I know the basics of being a frontend developer. I learned:
 
 ## Work experience
 
-Sadly I do not have any relevant experience on this field except for my project. I am currently working in a warehouse as a Vice Leader which made me a good teamplayer and helped me increase my loadability. I used to work on the field of sales which taught me how to deal with people and how to ask efficiently to get to the point and I have also learned how to handle deadlines.
+Sadly I do not have any relevant experience on this field except for my projects. I am currently working in a warehouse as a Vice Leader which made me a good teamplayer and helped me increase my loadability. I used to work on the field of sales which taught me how to deal with people and how to ask efficiently to get to the point and I have also learned how to handle deadlines.
 
 ## In my free time...
 
@@ -47,6 +50,8 @@ Right now I am mostly studying, secondly playing with my kids and thirdly prepar
  
  I speak Hungarian as native language and also English
 
-[React-first-project_Car-palace]:https://github.com/Szutibo/React-first-project_Car-palace.git
-[Javascript_practice]:https://github.com/Szutibo/Javascript_practice
+[Contact_app]:https://github.com/Szutibo/Contact_app
+[quiz_app]:https://github.com/Szutibo/quiz_app
+[Playing-With-math]:https://github.com/Szutibo/Playing-With-math
+[weather_app]:https://github.com/Szutibo/weather_app
 [Webler Education Studio]:https://webler.hu/index.php
