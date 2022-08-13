@@ -8,9 +8,9 @@ I am currently participating in a full-stack web developing course. At the momen
 
 ## Recent project
 
-|[Contact_app] | [quiz_app] | [Playing-With-math] | [weather_app]
-|:-------------- |:-------------- | |:-------------- | |:-------------- |
-| This is my first full-stack project. The project itself is a **R**eact project with a **N**ode.js and **E**xpress backend and a MySQL db. | It is a multiple choice quiz application. | Small **R**eact project with a **N**ode.js and **E**xpress backend. This project helped me to get to know better fibonacci sequence and the meaning of factorial and how to make a logic to calculate them. | Simple weather app made in **R**eact using a free wetaher API!
+|[Contact_app] | [quiz_app] | [Playing-With-math] | [weather_app] |
+|:-------------- |:-------------- |:-------------- |:-------------- |
+| This is my first full-stack project. The project itself is a **R**eact project with a **N**ode.js and **E**xpress backend and a MySQL db. | It is a multiple choice quiz application. | Small **R**eact project with a **N**ode.js and **E**xpress backend. This project helped me to get to know better fibonacci sequence and the meaning of factorial and how to make a logic to calculate them. | Simple weather app made in **R**eact using a free wetaher API! |
 
 ## Tech stack and studies
 
